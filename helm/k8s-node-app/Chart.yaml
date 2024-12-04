@@ -1,0 +1,4 @@
+apiVersion: v2
+name: k8s-node-app
+description: A Helm chart for deploying a simple Node.js app
+version: 0.1.0
